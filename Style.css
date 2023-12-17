@@ -14,7 +14,7 @@ ul.home {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #123800;
+    background-color: #684700;
     text-align: center;
     
 }
@@ -33,7 +33,52 @@ li.sanad {
   li.sanad a:hover {
     background-color: #111;
   }
-
+ .headd{
+  background-color: black;opacity: 0.4;
+  border-radius: 20px;
+  color: aliceblue;
+  display: flexbox ;
+ }
+ .cul{
+  border-radius: 15px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: rgba(128, 128, 128, 0);
+  color: black;
+ }
+ table{
+  width: 100%;
+  background-color: rgba(222, 184, 135, 0.048);
+  margin-bottom: 2rem;
+  padding-bottom: 5rem;
+  text-align: center;
   
+}
+
+  caption{
+    background-color:#684700a1;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 1.5rem;
+    margin-top: 0.5rem;
+  }
+  td,th{
+    padding: 1.5rem;
+    text-align: center;
+   
+  }
+  th{
+    font-weight: bold;
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  td{
+    padding: 2rem;
+    font-size: 1rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+
+
   
 
